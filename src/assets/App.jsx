@@ -12,7 +12,7 @@ function App() {
           src={profilePhoto}
           alt="Francis Aban"
         />
-        <h2 className="logo">MyPortfolio.</h2>
+        <h2 className="logo">My Portfolio</h2>
 
         <div className="nav-links">
           <a href="#home">Home</a>
@@ -32,13 +32,13 @@ function App() {
             <h2>BS Information Technology Student</h2>
 
             <p>
-              Welcome to my personal portfolio!
+              Welcome to my personal portfolio! </p>
+            <p>
               I am passionate about technology,
               programming, and web development.
             </p>
 
             <a href="#about" className="btn">
-              Discover More
             </a>
           </div>
 
@@ -86,17 +86,17 @@ function App() {
         <h2>My Skills</h2>
 
         <div className="skills">
-          <span>HTML</span>
-          <span>CSS</span>
-          <span>JavaScript</span>
-          <span>React</span>
-          <span>Java</span>
-          <span>Python</span>
-          <span>MySQL</span>
-          <span>Communication</span>
-          <span>Management</span>
-          <span>Public Speaking</span>
-          <span>Leadership</span>
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>JavaScript</p>
+          <p>React</p>
+          <p>Java</p>
+          <p>Python</p>
+          <p>MySQL</p>
+          <p>Communication</p>
+          <p>Management</p>
+          <p>Public Speaking</p>
+          <p>Leadership</p>
         </div>
       </section>
 
